@@ -52,9 +52,6 @@
     <li><strong>Analyze insights</strong> to support HR decision-making.</li>
 </ol>
 
-<hr>
+<hr>[attritiondashboard.pdf](https://github.com/user-attachments/files/19093928/attritiondashboard.pdf)
 
-<h2>📜 License</h2>
-<p>This project is for <strong>internal analysis</strong> purposes. Feel free to modify and expand based on your organization's needs.</p>
 
-<p>📌 <em>This dashboard helps organizations track and manage employee attrition effectively!</em></p>
